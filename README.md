@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+# To start app 
+use 'npm start'. NOTE: This can take a while
+
+# if error 'react-scripts' is not recognized as an internal or external command' 
+use the command 'npm install' and it will install the right stuff off package.json 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
